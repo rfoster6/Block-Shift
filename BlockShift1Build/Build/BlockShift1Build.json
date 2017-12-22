@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "BlockShift1Build.data.unityweb",
+"asmCodeUrl": "BlockShift1Build.asm.code.unityweb",
+"asmMemoryUrl": "BlockShift1Build.asm.memory.unityweb",
+"asmFrameworkUrl": "BlockShift1Build.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
